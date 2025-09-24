@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GeoPro</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Startbildschirm -->
+  <div id="start-screen">
+    <h1>GeoPro</h1>
+    <p>Wähle einen Kontinent:</p>
+    <div id="continent-buttons">
+      <button onclick="selectContinent('europa')">Europa</button>
+      <button onclick="selectContinent('afrika')">Afrika</button>
+      <button onclick="selectContinent('asien')">Asien</button>
+      <button onclick="selectContinent('nordamerika')">Nordamerika</button>
+      <button onclick="selectContinent('suedamerika')">Südamerika</button>
+    </div>
+    <button onclick="showHighscore()">Highscore</button>
+  </div>
+
+  <!-- Highscore-Bildschirm (außerhalb vom Start-Screen!) -->
+  <div id="highscore-screen" style="display: none;">
+    <h2>🏆 Highscores</h2>
+    <div id="highscore-content"></div>
+    <button onclick="backToMenu()">Zurück zum Hauptmenü</button>
+  </div>
+
+  <!-- Spiel-Bildschirm -->
+  <div id="game-screen" style="display:none;">
+    <div id="info-bar">
+      <span id="timer">Zeit: 0.0s</span>
+      <span id="lives">Leben: 5</span>
+      <button id="back-button" onclick="backToMenu()">Zum Hauptmenü</button>
+    </div>
+    <h2 id="continent-title"></h2>
+    <img id="flag" src="" alt="Flagge" />
+    <div id="map-container"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

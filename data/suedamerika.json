@@ -1,0 +1,16 @@
+[
+    { "name": "Brasilien", "code": "br" },
+    { "name": "Argentinien", "code": "ar" },
+    { "name": "Chile", "code": "cl" },
+    { "name": "Peru", "code": "pe" },
+    { "name": "Kolumbien", "code": "co" },
+    { "name": "Ecuador", "code": "ec" },
+    { "name": "Venezuela", "code": "ve" },
+    { "name": "Bolivia", "code": "bo" },
+    { "name": "Guyana", "code": "gy" },
+    { "name": "Paraguay", "code": "py" },
+    { "name": "Suriname", "code": "sr" },
+    { "name": "Uruguay", "code": "uy" },
+    { "name": "French Guiana", "code": "gf" }
+  ]
+  

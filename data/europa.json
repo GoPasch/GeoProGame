@@ -1,0 +1,51 @@
+[
+  { "name": "Germany", "code": "de" },
+  { "name": "France", "code": "fr" },
+  { "name": "Italy", "code": "it" },
+  { "name": "Spain", "code": "es" },
+  
+  { "name": "Albania", "code": "al" },
+ 
+  { "name": "Austria", "code": "at" },
+  { "name": "Bulgaria", "code": "bg" },
+  { "name": "Switzerland", "code": "ch" },
+  { "name": "Czech Republic", "code": "cz" },
+  { "name": "Estonia", "code": "ee" },
+  { "name": "Belgium", "code": "be" },
+  { "name": "Bosnia and Herzegovina", "code": "ba" },
+  { "name": "Croatia", "code": "hr" },
+  { "name": "Denmark", "code": "dk" },
+  { "name": "Finland", "code": "fi" },
+  { "name": "Greece", "code": "gr" },
+  { "name": "Hungary", "code": "hu" },
+  { "name": "Iceland", "code": "is" },
+  { "name": "Ireland", "code": "ie" },
+  { "name": "Latvia", "code": "lv" },
+  
+ 
+  { "name": "Lithuania", "code": "lt" },
+  { "name": "Luxembourg", "code": "lu" },
+  
+  
+  { "name": "Belarus", "code": "by"},
+ 
+  { "name": "Moldova", "code": "md" },
+  { "name": "Russia", "code": "ru"},
+  { "name": "Montenegro", "code": "me" },
+  { "name": "Netherlands", "code": "nl" },
+  { "name": "North Macedonia", "code": "mk" },
+  { "name": "Norway", "code": "no" },
+  { "name": "Poland", "code": "pl" },
+  { "name": "Portugal", "code": "pt" },
+  { "name": "Romania", "code": "ro" },
+  { "name": "Malta", "code": "mt"},
+  { "name": "Kosovo", "code": "xk"},
+  { "name": "Serbia", "code": "rs" },
+  { "name": "Slovakia", "code": "sk" },
+  { "name": "Slovenia", "code": "si" },
+  { "name": "Sweden", "code": "se" },
+  { "name": "Cyprus", "code": "cy"},
+  { "name": "Ukraine", "code": "ua" },
+  { "name": "United Kingdom", "code": "gb" }
+  
+]

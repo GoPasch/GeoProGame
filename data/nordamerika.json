@@ -1,0 +1,18 @@
+[
+    { "name": "Canada", "code": "ca" },
+    { "name": "United States", "code": "us" },
+    { "name": "Mexiko", "code": "mx" },
+    { "name": "Guatemala", "code": "gt" },
+    { "name": "Cuba", "code": "cu" },
+    { "name": "Honduras", "code": "hn" },
+    { "name": "Haiti", "code": "ht" },
+    { "name": "Belize", "code": "bz" },
+    { "name": "Dominican Republic", "code": "do" },
+    { "name": "Costa Rica", "code": "cr" },
+    { "name": "Jamaica", "code": "jm" },
+    { "name": "Nicaragua", "code": "ni" },
+    { "name": "Panama", "code": "pa" },
+    { "name": "El Salvador", "code": "sv" },
+    { "name": "Puerto Rico", "code": "pr" }
+  ]
+  
